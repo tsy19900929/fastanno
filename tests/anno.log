@@ -1,0 +1,3 @@
+.fatmp@test1_query.tsv@body@test1_db1.tsv time cost: 490.96µs
+test1_db2.tsv.idx file not found, skip it.
+.fatmp@test1_query.tsv@body@test1_db2.tsv time cost: 443.771µs
